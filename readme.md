@@ -24,15 +24,15 @@ Users should be able to:
 
 Mobile
 
-![](./screenshot.jpg)
+![](./mobile.png)
 
 Desktop
 
-![](./screenshot.jpg)
+![](./desktop.png)
 
 ### Links
 
--   Live Site URL: [Testimonials grid section](https://your-live-site-url.com)
+-   Live Site URL: [Testimonials grid section](https://bucolic-tartufo-c68e82.netlify.app/)
 
 ## My process
 
